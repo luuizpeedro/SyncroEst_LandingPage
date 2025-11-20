@@ -1,0 +1,16 @@
+body {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.gradient-text {
+    background: linear-gradient(135deg, #3498DB 0%, #2ECC71 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Padrão de fundo sutil */
+.bg-pattern {
+    background-image: radial-gradient(#E5E7EB 1px, transparent 1px);
+    background-size: 24px 24px;
+}
